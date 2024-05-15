@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Esra Arıkan
 - 👀 I’m interested in Flutter
-- 🌱 I’m currently learning Dart,Python,C++...
+- 🌱 I’m currently learning Dart,Python,SQL...
 
 
 <!---
